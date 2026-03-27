@@ -42,12 +42,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="conceptualization" />
-                    <option name="lastUsedInstant" value="1774614058" />
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1774614350" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1774614057" />
+                    <option name="branchName" value="conceptualization" />
+                    <option name="lastUsedInstant" value="1774614058" />
                   </RecentBranch>
                 </list>
               </option>
@@ -67,7 +67,7 @@
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "Spring Boot.KorailAutoReserveApplication.executor": "Run",
-    "git-widget-placeholder": "conceptualization",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",

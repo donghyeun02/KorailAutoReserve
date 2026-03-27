@@ -8,6 +8,7 @@
 22112063, 신동현, sindong106@yu.ac.kr
 
 GitHub Repository : https://github.com/donghyeun02/KorailAutoReserve
+
 ---
 
 ## Revision history
