@@ -4,9 +4,10 @@
 
 ![img.png](img.png)
 
-(Student No, Name, E-mail)  
+(Student No, Name, E-mail) 
 22112063, 신동현, sindong106@yu.ac.kr
 
+GitHub Repository : https://github.com/donghyeun02/KorailAutoReserve
 ---
 
 ## Revision history
